@@ -2,9 +2,10 @@ My Planet Project!
 ------------------
 
 I'm working on:
- - Mars!
+ - Mars
+ - Sun??
  
-To do:
+Todo:
  - Saturn
  - Jupiter
   
