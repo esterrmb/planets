@@ -3,10 +3,13 @@ My Planet Project!
 
 I'm working on:
  - Mars!
+ - Earth
  
 To do:
  - Saturn
  - Jupiter
+ - Mercury
+ - Pluto
   
 To work on this project just run this command:
 
